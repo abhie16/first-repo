@@ -1,3 +1,3 @@
 # First-repo
 
-description about project. 
+description about project!
